@@ -1,1 +1,4 @@
-
+'Draws Bird
+Public Sub DrawBird()
+    BirdPreviousCell.Clear
+    BirdCell.Interior
